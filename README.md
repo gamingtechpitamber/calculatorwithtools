@@ -13,9 +13,21 @@
 यो आजै डाउनलोड गर्नुहोस र रंगीन र आकर्षक बटनहरु साथ प्रयोग गर्नुस्।
 
 
-## 📥 डाउनलोड
+## ```html
+<h2 align="center">🧮 Calculator with Tools</h2>
 
-[🔗 Live Demo हेर्नुहोस्](https://gamingtechpitamber.github.io/calculator-with-tools/)
+<p align="center">
+  <a href="https://gamingtechpitamber.github.io/calculatorwithtools/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
+<p align="center">
+  तपाईंले यो एप यहाँ प्रयोग गर्न सक्नुहुन्छ 👆
+</p>
+```
+
+---
 
 ## 📞 सम्पर्क
 
