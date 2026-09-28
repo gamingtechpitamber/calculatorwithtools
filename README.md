@@ -1,2 +1,22 @@
-# calculatorwithtools
-This is calculator app with more tools.
+# 🧮 Calculator with Tools
+
+**Calculator with Tools** एक शक्तिशाली र सर्वसुविधा सम्पन्न क्याल्कुलेटर एप हो। यो एप विद्यार्थी, शिक्षक र सामान्य प्रयोगकर्ता सबैको लागि उपयुक्त छ।यस calculator मा सबै tool अप्सन नभए पनि साधारण tool सहितको calculator छ।रंगीन बटन र 3d looks ले यो अति आकर्षक रहेको छ।
+
+## ✨ मुख्य विशेषताहरू
+
+- 🧮 आधारभूत गणना (जोड, घटाउ, गुणा, भाग)
+- 🎨 आकर्षक र प्रयोगकर्ता-मैत्री डिजाइन
+- ⚡ छिटो र सटीक गणना
+- 🆓 पूर्ण रूपमा निःशुल्क
+-🔧विभिन्न 12 more tools भएको 
+-💗calculator का अन्य बटनको रङ परिवर्तन गर्न सकिने।
+यो आजै डाउनलोड गर्नुहोस र रंगीन र आकर्षक बटनहरु साथ प्रयोग गर्नुस्।
+
+
+## 📥 डाउनलोड
+
+[🔗 Live Demo हेर्नुहोस्](https://gamingtechpitamber.github.io/calculator-with-tools/)
+
+## 📞 सम्पर्क
+
+GamingTechPitamber – नेपालको गेमिङ र टेक ब्लग
